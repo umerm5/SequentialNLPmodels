@@ -1,4 +1,4 @@
-'''Author: Muahmmad Umer
+'''Modified By: Muahmmad Umer
 Created On: 11/19/2020
 Performing multiclass text classification using bidirectional LSTM'''
 
